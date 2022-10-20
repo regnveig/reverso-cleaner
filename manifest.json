@@ -4,7 +4,17 @@
 	"version": "0.9.0",
 	"description": "Make better your experience with Context Reverso",
 	"icons": {
-		"96": "icons/border-96.svg"
+		"48": "icons/reverso-cleaner-48.svg",
+		"96": "icons/reverso-cleaner-96.svg"
+	},
+	"browser_action": {
+		"browser_style": true,
+		"default_icon": {
+			"16": "button/reverso-cleaner-16.svg",
+			"32": "button/reverso-cleaner-32.svg"
+		},
+		"default_title": "Reverso Cleaner",
+		"default_popup": "popup/reverso-cleaner.html"
 	},
 	"content_scripts": [
 		{
