@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Reverso Cleaner",
-	"version": "0.9.0",
+	"version": "0.9.1",
 	"description": "Make better your experience with Context Reverso",
 	"icons": {
 		"48": "icons/reverso-cleaner-48.svg",
