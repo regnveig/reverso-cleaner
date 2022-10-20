@@ -29,6 +29,7 @@ let IdList = [
 	'bottom-mega-rca-box',
 	'bottom-suggestions',
 	'colloquial',
+	'dapp-banner',
 	'dapp-banner-wrapper',
 	'footer',
 	'history-home-badges',
